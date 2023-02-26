@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'WellLogMLInterpretation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8031D5A009AB40CF9DEA12D2AFEA3BA5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E192DB794B364D1483C5B96A944A15ED }}
